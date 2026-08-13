@@ -7,7 +7,7 @@ packages = ["src/bskysnap"]
 
 [project]
 name = "bskysnap"
-version = "0.1.0"
+version = "0.2.0"
 description = "Turn any Bluesky profile into a clean markdown digest."
 readme = "README.md"
 license = {text = "MIT"}
